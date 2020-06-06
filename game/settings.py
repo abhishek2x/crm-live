@@ -144,7 +144,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR + '/static/images')
 # PROJECT_ROOT = os.path.realpath(os.path.dirname(__file__))
 # MEDIA_ROOT = PROJECT_ROOT + '/static/'
 
-EMAIL_BACKEND = 'django.core.mail.backends.smpt.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smpt.gmail.com'
 EMAIL_PORT = '587'
 EMAIL_USE_TLS = True
