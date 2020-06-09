@@ -1,4 +1,6 @@
 #Customer Management Platform(CRM)
+
+
 It is a Customer Management Platform(CRM) which is developed in python's powerful framework, Django.
 
 Some of the major concepts involved in this #application:
