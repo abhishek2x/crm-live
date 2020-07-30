@@ -1,27 +1,27 @@
-#Customer Management Platform(CRM)
+# Customer Management Platform(CRM)
 
 
 It is a Customer Management Platform(CRM) which is developed in python's powerful framework, Django.
 
 Some of the major concepts involved in this #application:
 
--> CRUD implementation
+* CRUD implementation
 
--> Custom User model
+* Custom User model
 
--> Django Custom decorators
+* Django Custom decorators
 
--> Inline Formsets
+* Inline Formsets
 
--> User Login and Registration Authentication
+* User Login and Registration Authentication
 
--> Linking User modal with Custom model
+* Linking User modal with Custom model
 
--> Custom Django Middleware
+* Custom Django Middleware
 
--> PyPI django_flters and whitenoise package
+* PyPI django_flters and whitenoise package
 
--> Groups and permissions
+* Groups and permissions
 
 Database used: Sqlite
 Hosted on Heroku
