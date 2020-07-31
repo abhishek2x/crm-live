@@ -6,7 +6,7 @@
 ***
 
 ## It is a Customer Management Platform(CRM) which is developed in python's powerful framework, Django.
-**It is as Customer manaement app which maintains track for their orders. Users can Create, Read, Update, and Delete their Orders. Each User will have a Personal Dashboard.**
+**It is a Customer management app which maintains track for their orders. Users can Create, Read, Update, and Delete their Orders. Each User will have a Personal Dashboard.**
 
 ***
 <img src="./README_images/1.png"/>
