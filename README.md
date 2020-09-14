@@ -11,9 +11,6 @@
 ***
 <img src="./README_images/1.png"/>
 <img src="./README_images/2.png"/>
-***
-
-
 
 ## Some of the major concepts involved in this #application:
 
@@ -42,9 +39,6 @@ Hosted on Heroku
 ***
 <img src="./README_images/3.png"/>
 <img src="./README_images/5.png"/>
-***
-
-
 
 This projects made me familiar with the core concepts of Django and how they are implemented.
 
